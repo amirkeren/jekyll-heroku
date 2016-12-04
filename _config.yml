@@ -7,11 +7,10 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAXTAAAAJDA2Y2VhNGFjLTBlNzItNDI1Yy1iNDQ2LTEzMmY5Y2Y2NDU5ZQ.jpg
 
 url: https://amirkeren.co
-# your url: http://USERNAME.github.io
 
 permalink: /:title/
 
