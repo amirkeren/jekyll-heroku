@@ -1,7 +1,7 @@
 ---
-title: "Markdown Extra Components"
+title: "First Post"
 layout: post
-date: 2016-02-24 22:48
+date: 2016-12-05 00:04
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,7 +9,7 @@ tag:
 - components
 - extra
 blog: true
-author: jamesfoster
+author: amirkeren
 description: Markdown summary with different options
 ---
 
