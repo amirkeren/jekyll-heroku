@@ -4,21 +4,15 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>About Me</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am a 33-year-old software engineer from Tel Aviv, Israel with over 7 years of experience in software design and development.</p>
+<p>I started my professional career in the military as an IT Specialist and later on as an IT Team Lead at the 8200 technological unit of the Israeli Intelligence Corps. I worked as a Fullstack Software Developer at IBM in the Haifa Research Labs for 4 years and later worked for another 3 years at a couple of small startups in various industries (gaming, eCommerce, cybersecurity). In my last position I was an R&D Team Lead in charge of several software and QA engineers and delivering a high quality B2B product to fortune 2000 companies.</p>
+<p>I recently returned to IBM to be part of IBM's accelerator program - Alpha Zone. My work in the Startups and Developers team enables me to engage with many Israeli startups on a daily basis and provide the development support needed to incorporate various technologies, both open source and IBM specific.</p>
+<p>I hold a B.Sc. in Software Engineering from the Technion - Israel Institute of Technology and an M.B.A. in Management of Technology, Entrepreneurship and Innovation from Tel Aviv University.</p>
+<p>I am married and have a 7 month old son. I am a huge geek/nerd and I play everything from board games to consoles.
 
-<h2>Skills</h2>
+<!--<h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
@@ -43,4 +37,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+</ul>-->
