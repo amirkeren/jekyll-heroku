@@ -10,7 +10,7 @@ tag:
 - extra
 blog: true
 author: amirkeren
-description: Markdown summary with different options
+description: First blog for me
 ---
 
 This will be my first blog post
