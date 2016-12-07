@@ -2,7 +2,7 @@
 title: "First Post"
 layout: post
 date: 2016-12-05 00:04
-image: /assets/images/markdown.jpg
+image: assets/images/markdown.jpg
 headerImage: false
 tag:
 - markdown
