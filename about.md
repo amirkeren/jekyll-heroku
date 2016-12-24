@@ -8,7 +8,6 @@ layout: page
 
 <p>I am a 33-year-old software engineer from Tel Aviv, Israel with over 7 years of experience in software design and development.</p>
 <p>I started my professional career in the military as an IT Specialist and later on as an IT Team Lead at the 8200 technological unit of the Israeli Intelligence Corps. I worked as a Fullstack Software Developer at IBM in the Haifa Research Labs for 4 years and later worked for another 3 years at a couple of small startups in various industries (gaming, eCommerce, cybersecurity). In my last position I was an R&D Team Lead in charge of several software and QA engineers and delivering a high quality B2B product to fortune 2000 companies.</p>
-<p>I recently returned to IBM to be part of IBM's accelerator program - Alpha Zone. My work in the Startups and Developers team enables me to engage with many Israeli startups on a daily basis and provide the development support needed to incorporate various technologies, both open source and IBM specific.</p>
 <p>I hold a B.Sc. in Software Engineering from the Technion - Israel Institute of Technology and an M.B.A. in Management of Technology, Entrepreneurship and Innovation from Tel Aviv University.</p>
 <p>I am married and have a 7 month old son. I am a huge geek/nerd and I play everything from board games to consoles.
 
